@@ -1,5 +1,9 @@
 #include<stdio.h>
-/*main function is entry point. return 0 after printing the function */
+/**
+ * main - function is entry point 
+ *
+ * Return: after printing the function 
+ */
 int	main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
