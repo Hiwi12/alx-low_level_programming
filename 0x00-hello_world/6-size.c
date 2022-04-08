@@ -3,7 +3,7 @@
  * main - Prints var size of var type
  * return: Always 0
  */
-int main(void) {}
+int main(void)
 {
 printf("Size_t of a char: %d byte(s)\n", sizeof(char));
 printf("Size_t of an int: %d byte(s)\n", sizeof(int));
