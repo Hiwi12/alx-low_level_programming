@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - Prints var size of var type
- * return: Always 0
+ *
+ * Return: Always 0
  */
 int main(void)
 {
