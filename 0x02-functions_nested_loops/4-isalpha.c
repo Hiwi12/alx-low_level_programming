@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - check for the alphabet
+ * @c: tne character to be cheaked
  *
  * Return: return 1 if it is alphabet otherwise return 0
  */

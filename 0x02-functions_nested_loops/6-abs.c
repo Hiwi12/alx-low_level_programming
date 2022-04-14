@@ -2,13 +2,12 @@
 
 /**
  * _abs - compute absolute value of integers
+ * @c: postive intiger value
  *
  * Return: return postive number
  */
-int _abs(int)
+int _abs(int c)
 {
-	int c;
-
 	if (c < 0)
 	{
 		int abs_val;
