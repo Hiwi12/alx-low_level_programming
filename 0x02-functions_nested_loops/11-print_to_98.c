@@ -3,6 +3,7 @@
 
 /**
  * print_to_98 - print numbers in order
+ * @n: natural number
  *
  * Return: void
  */

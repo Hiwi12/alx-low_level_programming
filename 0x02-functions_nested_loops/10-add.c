@@ -2,15 +2,14 @@
 
 /**
  * add - add two intiger and return the result
+ * @a: intiger number
+ * @b: second intiger number
  *
  * Return: intiger result
  */
-int add(int, int)
+int add(int a, int b)
 {
 	int a, b;
-	int sum;
 
-	sum = a + b;
-
-	return (sum);
+	return (a + b);
 }
