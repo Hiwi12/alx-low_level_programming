@@ -8,9 +8,11 @@
 int main(void)
 {
 	int i = 0;
-	int long j = 1, k = 2;
 
-	while (i < 96)
+	long j = 1, k = 2;
+
+
+	while (i < 94)
 	{
 		if (i == 0)
 			printf("%ld", j);
