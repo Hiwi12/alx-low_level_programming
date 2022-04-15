@@ -1,18 +1,18 @@
 #include <stdio.h>
 
 /**
- * main - print the first 98 fibonnaci nmbers 
+ * main - print the first 98 fibonnaci nmbers
  *
  * Return: always
  */
 int main(void)
 {
-	int i;
+	int i = 0;
 	long j = 1, k = 2;
 
 	while (i < 98)
 	{
-		if(i == 0)
+		if (i == 0)
 			printf("%ld", j);
 		else if (i == 1)
 			printf(", %ld", k);

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_times_table - prints a multiplication table up to n 
+ * print_times_table - prints a multiplication table up to n
  * @n: integer number computed
  *
  * Return: void
