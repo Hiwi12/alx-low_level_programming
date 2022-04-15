@@ -12,7 +12,7 @@ int main(void)
 	long j = 1, k = 2;
 
 
-	while (i < 94)
+	while (i < 96)
 	{
 		if (i == 0)
 			printf("%ld", j);
