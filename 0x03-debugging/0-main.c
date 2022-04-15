@@ -2,9 +2,9 @@
 
 /**
  * main - test function that prints if intiger is postive or negative
- *
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
